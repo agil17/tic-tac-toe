@@ -16,7 +16,6 @@ body {
 .gameboard {
     height: 300px;
     width: 700px;
-    border: solid 2px black;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
